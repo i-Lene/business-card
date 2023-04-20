@@ -7,6 +7,7 @@
     box-shadow: 2px 5px rgba(26, 27, 33, 0.5);
     margin: 10px auto;
     text-align: center;
+    position: relative;
 }
 
 /* profile picture */
@@ -27,7 +28,7 @@
 }
 
 .role {
-    color: #F3BF99;
+    color: #DEA5A4;
     font-size: 13px;
     font-weight: 300;
 }
@@ -48,7 +49,7 @@
 
 }
 
-.fa-brands {
+.button-socials>.fa-brands {
     margin-right: 8px;
     width: 16px;
     height: 16px;
@@ -57,9 +58,52 @@
 .linkedin {
     margin-left: 20px;
     color: white;
-    background-color: #5093E2;
+    background-color: #F5A7B7;
 }
 
 .git {
-    color: black;
+    color: #DEA5A4;
+}
+
+.paragraph {
+    margin: 40px 34px 0 34px;
+}
+
+.paragraph>p {
+    font-size: 10px;
+    text-align: left;
+}
+
+.paragraph>h2 {
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #161619;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 64px;
+    border-radius: 0 0 10px 10px;
+}
+
+.footer>a {
+    color: white;
+    opacity: 0.5;
+    font-size: 25px;
+}
+
+.footer>a:hover {
+    opacity: 1;
+    color: #DEA5A4;
+}
+
+.footer>a:not(:last-child) {
+    margin-right: 20px;
+}
+
+.footer>a>.fa-brands {
+    margin-top: 22px;
 }

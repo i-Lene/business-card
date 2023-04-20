@@ -2,7 +2,9 @@ import React from "react";
 import { CardImage } from "./CardImage";
 import { IntroSection } from "./IntroSection";
 import { Button } from 'react-bootstrap';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { Paragraph } from "./Paragraphs";
+import { Footer } from "./Footer";
+
 
 
 function Card() {
@@ -35,6 +37,8 @@ function Card() {
                 <i class="fa-brands fa-linkedin"></i>
                 Linkedin
             </Button>
+            <Paragraph />
+            <Footer></Footer>
         </div>
     )
 }
