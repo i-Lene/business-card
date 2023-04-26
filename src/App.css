@@ -2,7 +2,7 @@
 .main-card {
     background-color: #1A1B21;
     width: 317px;
-    height: 780px;
+    height: auto;
     border-radius: 10px;
     box-shadow: 2px 5px rgba(26, 27, 33, 0.5);
     margin: 10px auto;
@@ -16,7 +16,6 @@
     width: 317px;
     height: auto;
     border-radius: 10px 10px 0 0;
-
 }
 
 .about-me {
@@ -25,30 +24,30 @@
 }
 
 .name {
-    font-size: 20px;
-    margin-top: 30px;
+    font-size: 30px;
+    margin: 30px 40px 0 40px;
 }
 
 .role {
     color: #DEA5A4;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 300;
 }
 
 .website {
     text-decoration: none;
     color: white;
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 200;
 }
 
 /* buttons */
 .button-socials {
-    width: 115px;
+    min-width: 115px;
+    width: max-content;
     height: 34px;
     border-radius: 8px;
     font-size: 16px;
-
 }
 
 .button-socials>.fa-brands {
@@ -69,17 +68,19 @@
 
 .paragraph {
     margin: 40px 34px 0 34px;
+    padding-bottom: 100px;
 }
 
 .paragraph>p {
-    font-size: 10px;
+    font-size: 16px;
     text-align: left;
+    font-weight: 300;
 }
 
 .paragraph>h2 {
     margin-bottom: 0;
     text-align: left;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .footer {
