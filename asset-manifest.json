@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.91f96336.css",
+    "main.js": "/business-card/static/js/main.fbcc8d5b.js",
+    "static/media/fa-solid-900.ttf": "/business-card/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/me.jpg": "/business-card/static/media/me.b7d93249555e27614131.jpg",
+    "static/media/fa-brands-400.ttf": "/business-card/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/business-card/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/business-card/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/business-card/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/business-card/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/business-card/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/business-card/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/business-card/index.html",
+    "main.91f96336.css.map": "/business-card/static/css/main.91f96336.css.map",
+    "main.fbcc8d5b.js.map": "/business-card/static/js/main.fbcc8d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f96336.css",
+    "static/js/main.fbcc8d5b.js"
+  ]
+}
